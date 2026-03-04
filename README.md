@@ -5,4 +5,4 @@
     src: url('https://iwakurashiori1008.github.io/font/フォントのファイル名');<br>
 }<br>
 <br>
-font-family:'higure';で設定
+font-family:'(フォント名)';で設定！
